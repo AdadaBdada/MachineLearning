@@ -3,7 +3,7 @@ Machine Learning &amp; Deep Learning
 个人学习过程总结
 
 书籍链接:   
-[Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://drive.google.com/drive/u/0/folders/1zXpMrAbq7QaWbabrUyzk0wnQf5ljDaJ7)  
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://www.deeplearningitalia.com/wp-content/uploads/2017/12/Dropbox_Hands-On-Machine-Learning-with-Scikit-Learn-and-Tensorflow-Aurelien-Geron.pdf)  
 
 **线上课程**  
 Coursera :   

@@ -11,7 +11,7 @@ Coursera :<br>
 深度学习: [Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) Andrew Ng.<br>
 
 ## **计算机类**
-_因为一点基础都没有，所以都是从头开始学的_
+_因为一点基础都没有，所以都是从头开始学的_<br>
 Udacity:<br>
 [Intro to HTML and CSS](https://classroom.udacity.com/courses/ud001) 第一课 03/18/2018<br> 
 [Computer Networking](https://classroom.udacity.com/courses/ud436) 第一课 03/18/2018<br>

@@ -7,7 +7,7 @@ Machine Learning &amp; Deep Learning
 
 **线上课程**  
 Coursera :   
-机器学习:[Stanford Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) Andrew Ng.（完成）
+机器学习:[Stanford Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) Andrew Ng.（完成）<br>
 深度学习:[Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) Andrew Ng.
 
 

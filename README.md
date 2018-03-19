@@ -23,3 +23,8 @@ Udacity:<br>
 Book<br>
 [Recommendation System Handbook](http://www.cs.ubbcluj.ro/~gabis/DocDiplome/SistemeDeRecomandare/Recommender_systems_handbook.pdf)
 
+http://benanne.github.io/2014/08/05/spotify-cnns.html
+https://recsys.acm.org/
+http://geek.csdn.net/news/detail/134876
+https://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html#icomments
+https://yq.aliyun.com/articles/39629

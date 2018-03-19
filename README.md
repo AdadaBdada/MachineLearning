@@ -18,5 +18,8 @@ Udacity:<br>
 [Computer Networking](https://classroom.udacity.com/courses/ud436) First chapter 03/18/2018<br>
 [Configuring Linux Web Servers](https://classroom.udacity.com/courses/ud299) First chapter 03/18/2018<br>
 
+## Recommendation System
 
+Book<br>
+[Recommendation System Handbook](http://www.cs.ubbcluj.ro/~gabis/DocDiplome/SistemeDeRecomandare/Recommender_systems_handbook.pdf)
 
